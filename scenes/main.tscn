@@ -1,11 +1,11 @@
 [gd_scene format=3 uid="uid://cpqr2nogaxs54"]
 
-[ext_resource type="Script" uid="uid://c723ojykak73h" path="res://main.gd" id="1_h2yge"]
-[ext_resource type="Texture2D" uid="uid://jfpxlaev5lo" path="res://bg.png" id="1_ig7tw"]
-[ext_resource type="PackedScene" uid="uid://bu6wu6qh4vtb6" path="res://bird.tscn" id="2_0xm2m"]
-[ext_resource type="PackedScene" uid="uid://yi6l4qijgdo3" path="res://pipe.tscn" id="2_lquwl"]
-[ext_resource type="PackedScene" uid="uid://ddmal70tf0p64" path="res://ground.tscn" id="4_1bvp3"]
-[ext_resource type="PackedScene" uid="uid://cp7bavuf82d8k" path="res://game_over.tscn" id="6_7mycd"]
+[ext_resource type="Script" uid="uid://c723ojykak73h" path="res://scenes/main.gd" id="1_h2yge"]
+[ext_resource type="Texture2D" uid="uid://jfpxlaev5lo" path="res://assets/bg.png" id="1_ig7tw"]
+[ext_resource type="PackedScene" uid="uid://bu6wu6qh4vtb6" path="res://scenes/bird.tscn" id="2_0xm2m"]
+[ext_resource type="PackedScene" uid="uid://yi6l4qijgdo3" path="res://scenes/pipe.tscn" id="2_lquwl"]
+[ext_resource type="PackedScene" uid="uid://ddmal70tf0p64" path="res://scenes/ground.tscn" id="4_1bvp3"]
+[ext_resource type="PackedScene" uid="uid://cp7bavuf82d8k" path="res://scenes/game_over.tscn" id="6_7mycd"]
 
 [node name="Main" type="Node" unique_id=444882485]
 script = ExtResource("1_h2yge")

@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://bu6wu6qh4vtb6"]
 
-[ext_resource type="Script" uid="uid://crcaa8kjhh6ck" path="res://bird.gd" id="1_cchwj"]
-[ext_resource type="Texture2D" uid="uid://c1abuy3n3jcc1" path="res://bird1.png" id="1_j88tq"]
-[ext_resource type="Texture2D" uid="uid://bje0qlj41mm3g" path="res://bird2.png" id="2_cchwj"]
-[ext_resource type="Texture2D" uid="uid://bgs66mcj86ukk" path="res://bird3.png" id="3_6ljjq"]
+[ext_resource type="Script" uid="uid://crcaa8kjhh6ck" path="res://scenes/bird.gd" id="1_cchwj"]
+[ext_resource type="Texture2D" uid="uid://c1abuy3n3jcc1" path="res://assets/bird1.png" id="1_j88tq"]
+[ext_resource type="Texture2D" uid="uid://bje0qlj41mm3g" path="res://assets/bird2.png" id="2_cchwj"]
+[ext_resource type="Texture2D" uid="uid://bgs66mcj86ukk" path="res://assets/bird3.png" id="3_6ljjq"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_axl6x"]
 animations = [{
